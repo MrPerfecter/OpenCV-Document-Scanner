@@ -48,3 +48,4 @@ Epsilon %: Adjusts the polygon approximation. If your document has slightly curv
 
 The output will automatically generate once a valid 4-corner document is detected!
 
+also check my post on linkedin: https://www.linkedin.com/posts/vishva-bharambe-8b1135375_recently-my-father-asked-me-to-help-him-ugcPost-7476504921756876800-8SUx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFy-9cUBO8IfjSbqkBMO7GrJ4q3_rwIeurU
